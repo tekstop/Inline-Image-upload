@@ -12,7 +12,7 @@ This is a simplistic version that given a html format like this:
 
 and using the included inlineForm js will append an hidden form that will allow for easy image upload.
 
-The user still has to take care of the submitted form (to upload the new image in the background or refresh the page)
-
+The user still has to take care of the submitted form (to upload the new image in the background or refresh the page)   
+This can be done by implementing or over writing the submit method in the inlineForm.js
 
 
